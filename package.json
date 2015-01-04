@@ -20,6 +20,8 @@
     "dependencies": {
         "express": "4.10.6",
         "MD5": "1.2.1",
-        "mongodb": "1.4.26"
+        "mongodb": "1.4.26",
+        "cors": "2.5.2",
+        "body-parser": "1.10.1"
     }
 }
