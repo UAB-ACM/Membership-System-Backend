@@ -1,0 +1,25 @@
+{
+    "name": "acm-server",
+    "description": "ACM Member Management Server",
+    "version": "2.0.0",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/UAB-ACM/Membership-System-Backend"
+    },
+    "author": {
+        "name": "UAB ACM",
+        "email": "bradengroom@gmail.com",
+        "url": "http://acm.cis.uab.edu"
+    },
+    "contributors": [
+        {
+            "name": "Braden Groom",
+            "email": "bradengroom@gmail.com"
+        }
+    ],
+    "dependencies": {
+        "express": "4.10.6",
+        "MD5": "1.2.1",
+        "mongodb": "1.4.26"
+    }
+}
